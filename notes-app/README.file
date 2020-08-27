@@ -1,0 +1,5 @@
+Notes saving app [using command line] which saved notes in a JSON file and have multiple functionalities like 
+1. Add Note
+2. Remove Note
+3. List of Notes
+4. Read Specific Note
