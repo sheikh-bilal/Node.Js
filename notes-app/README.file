@@ -9,3 +9,6 @@ Commands to RUN:
 2. node app.js remove --title="Title"
 3. node app.js list
 4. node app.js read --title="Title"
+
+IMPORTANT NOTE
+Before Running App type command "npm install" to fetch npm-modules required for running the app.
