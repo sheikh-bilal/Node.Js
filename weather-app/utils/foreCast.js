@@ -12,5 +12,4 @@ foreCast = (latitude, longitude, callback) =>{
         }
     })
 }
-
 module.exports = foreCast
