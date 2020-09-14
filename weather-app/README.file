@@ -1,5 +1,5 @@
-Description: Weather app [using commandline] it takes location from user as a string using command line and then use that location to get GEOCODE of that 
-particular place using MAPBOX API after that it uses darkshy.net API to get weather of that location.
+Weather app [using commandline] it takes location from user as a string using command line and then use that location to get GEOCODE of that 
+particular place using MAPBOX API after that it uses darksky.net API to get weather of that location.
 
 Commands to RUN:
 1. node app.js location         //if name is consist of single word like Paris
