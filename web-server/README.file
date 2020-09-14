@@ -1,0 +1,8 @@
+Simple web server which uses uses Express module for creating local server, handlers (hbs modules) for dynamic template creation and path module
+for the creation of file path.
+
+Commands to RUN:
+1. node src/app.js 
+
+IMPORTANT NOTE
+Before Running App type command "npm install" to fetch npm-modules required for running the app.
