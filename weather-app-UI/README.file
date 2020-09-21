@@ -1,0 +1,12 @@
+Web based Weather-forecast app which uses uses Express module for creating local server, handlers (hbs modules) for dynamic template creation and path module
+for the creation of file path.and also we have done styling using CSS,HTML for creating web-page and javaScript for operation.
+
+Commands to RUN(if run on localHost):
+1. npm run dev
+2. nodemon src/app.js
+
+Weather-app is also uploaded on Heroku server and live.Link for app is:
+https://hmed-weather-application.herokuapp.com/
+
+IMPORTANT NOTE
+Before Running App on localhost type command "npm install" to fetch npm-modules required for running the app.
